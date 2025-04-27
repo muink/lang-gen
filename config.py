@@ -72,9 +72,9 @@ LANG = {
     "+${sculk_duration}block.minecraft.calibrated_sculk_sensor": "{lang.value} {glyph.clock}0.5s {glyph.delay}0.5s",
     "${ss_decorated_pot}block.minecraft.decorated_pot": "{lang.value}{align.left}{format.white}{glyph.decorated_pot_guide}",
     "${jukebox}block.minecraft.jukebox": "{lang.value}{align.left}{format.white}{glyph.jukebox_guide}",
-    "${sculk_both}block.minecraft.sculk_sensor": "{lang.value} {glyph.clock}1.5s{align.left}{format.white}{glyph.sculk_sensor_guide}",
+    "${sculk_both}block.minecraft.sculk_sensor": "{lang.value} {glyph.clock}1.5s {glyph.delay}0.5s{align.left}{format.white}{glyph.sculk_sensor_guide}",
     "+${sculk_chart}block.minecraft.sculk_sensor": "{lang.value}{align.left}{format.white}{glyph.sculk_sensor_guide}",
-    "+${sculk_duration}block.minecraft.sculk_sensor": "{lang.value} {glyph.clock}1.5s",
+    "+${sculk_duration}block.minecraft.sculk_sensor": "{lang.value} {glyph.clock}1.5s {glyph.delay}0.5s",
     # Brewing Stand (brewing guide)
     "${ss_brewing}container.brewing": "{align.before}{format.white}{glyph.brewing_stand_guide_left}{align.middle}{format.reset}{lang.value}{align.after}{format.white}{glyph.brewing_stand_guide_right}",
     # Container Inventories (comparator chart)
