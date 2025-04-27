@@ -62,6 +62,8 @@ LANG = {
     "${activation_duration}block.minecraft.lightning_rod": "{lang.value} {glyph.clock}0.4s",
     "${activation_duration}block.minecraft.target": "{lang.value} {glyph.clock}0.4s,1s",
     "${activation_duration}block.minecraft.tripwire_hook": "{lang.value} {glyph.clock}≥0.5s",
+    # Other Redstone Components (signal delay)
+    "${activation_duration}block.minecraft.daylight_detector": "{lang.value} {glyph.delay}1s",
     # Other Redstone Components (signal duration & comparator chart)
     "${sculk_both}block.minecraft.calibrated_sculk_sensor": "{lang.value} {glyph.clock}0.5s {glyph.delay}0.5s{align.left}{format.white}{glyph.sculk_sensor_guide}",
     "+${sculk_chart}block.minecraft.calibrated_sculk_sensor": "{lang.value}{align.left}{format.white}{glyph.sculk_sensor_guide}",
