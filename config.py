@@ -63,9 +63,9 @@ LANG = {
     "${activation_duration}block.minecraft.target": "{lang.value} {glyph.clock}0.4s,1s",
     "${activation_duration}block.minecraft.tripwire_hook": "{lang.value} {glyph.clock}≥0.5s",
     # Other Redstone Components (signal duration & comparator chart)
-    "${sculk_both}block.minecraft.calibrated_sculk_sensor": "{lang.value} {glyph.clock}0.5s{align.left}{format.white}{glyph.sculk_sensor_guide}",
+    "${sculk_both}block.minecraft.calibrated_sculk_sensor": "{lang.value} {glyph.clock}0.5s {glyph.delay}0.5s{align.left}{format.white}{glyph.sculk_sensor_guide}",
     "+${sculk_chart}block.minecraft.calibrated_sculk_sensor": "{lang.value}{align.left}{format.white}{glyph.sculk_sensor_guide}",
-    "+${sculk_duration}block.minecraft.calibrated_sculk_sensor": "{lang.value} {glyph.clock}0.5s",
+    "+${sculk_duration}block.minecraft.calibrated_sculk_sensor": "{lang.value} {glyph.clock}0.5s {glyph.delay}0.5s",
     "${ss_decorated_pot}block.minecraft.decorated_pot": "{lang.value}{align.left}{format.white}{glyph.decorated_pot_guide}",
     "${jukebox}block.minecraft.jukebox": "{lang.value}{align.left}{format.white}{glyph.jukebox_guide}",
     "${sculk_both}block.minecraft.sculk_sensor": "{lang.value} {glyph.clock}1.5s{align.left}{format.white}{glyph.sculk_sensor_guide}",
