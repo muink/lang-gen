@@ -63,6 +63,7 @@ LANG = {
     "${activation_duration}block.minecraft.target": "{lang.value} {glyph.clock}0.4/1s",
     "${activation_duration}block.minecraft.tripwire_hook": "{lang.value} {glyph.clock}≥0.5s",
     # Other Redstone Components (signal delay)
+    "${activation_duration}block.minecraft.comparator": "{lang.value} {glyph.delay}0.1s {glyph.clock}0.1s",
     "${activation_duration}block.minecraft.daylight_detector": "{lang.value} {glyph.delay}1s",
     "${activation_duration}block.minecraft.observer": "{lang.value} {glyph.delay}0.1s {glyph.clock}0.1s",
     "${activation_duration}block.minecraft.redstone_torch": "{lang.value} {glyph.delay}0.1s",
