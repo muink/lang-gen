@@ -68,6 +68,7 @@ LANG = {
     "${activation_duration}block.minecraft.daylight_detector": "{lang.value} {glyph.delay}1s",
     "${activation_duration}block.minecraft.dispenser": "{lang.value} {glyph.delay}0.2s",
     "${activation_duration}block.minecraft.dropper": "{lang.value} {glyph.delay}0.2s",
+    "${activation_duration}block.minecraft.hopper": "{lang.value} {glyph.delay}0.4s",
     "${activation_duration}block.minecraft.observer": "{lang.value} {glyph.delay}0.1s {glyph.clock}0.1s",
     "${activation_duration}block.minecraft.redstone_torch": "{lang.value} {glyph.delay}0.1s",
     "${activation_duration}block.minecraft.repeater": "{lang.value} {glyph.delay}0.1/0.2/0.3/0.4s {glyph.clock}0.1/0.2/0.3/0.4s",
