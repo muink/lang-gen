@@ -70,8 +70,10 @@ LANG = {
     "${activation_duration}block.minecraft.dropper": "{lang.value} {glyph.delay}0.2s",
     "${activation_duration}block.minecraft.hopper": "{lang.value} {glyph.delay}0.4s",
     "${activation_duration}block.minecraft.observer": "{lang.value} {glyph.delay}0.1s {glyph.clock}0.1s",
+    "${activation_duration}block.minecraft.piston": "{lang.value} {glyph.delay}0/0.05s {glyph.clock}0.1s",
     "${activation_duration}block.minecraft.redstone_torch": "{lang.value} {glyph.delay}0.1s",
     "${activation_duration}block.minecraft.repeater": "{lang.value} {glyph.delay}0.1/0.2/0.3/0.4s {glyph.clock}0.1/0.2/0.3/0.4s",
+    "${activation_duration}block.minecraft.sticky_piston": "{lang.value} {glyph.delay}0/0.05s {glyph.clock}0.1s",
     # Other Redstone Components (signal duration & comparator chart)
     "${sculk_both}block.minecraft.calibrated_sculk_sensor": "{lang.value} {glyph.clock}0.5s {glyph.delay}0.5s{align.left}{format.white}{glyph.sculk_sensor_guide}",
     "+${sculk_chart}block.minecraft.calibrated_sculk_sensor": "{lang.value}{align.left}{format.white}{glyph.sculk_sensor_guide}",
