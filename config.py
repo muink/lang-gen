@@ -60,6 +60,7 @@ LANG = {
     "${activation_duration}block.minecraft.detector_rail": "{lang.value} {glyph.clock}≥1s",
     "${activation_duration}block.minecraft.lectern": "{lang.value} {glyph.clock}0.1s",
     "${activation_duration}block.minecraft.lightning_rod": "{lang.value} {glyph.clock}0.4s",
+    "${activation_duration}block.minecraft.redstone_lamp": "{lang.value} {glyph.clock}≥0.2s",
     "${activation_duration}block.minecraft.target": "{lang.value} {glyph.clock}0.4/1s",
     "${activation_duration}block.minecraft.tripwire_hook": "{lang.value} {glyph.clock}≥0.5s",
     # Other Redstone Components (signal delay)
